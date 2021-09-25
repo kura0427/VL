@@ -1,0 +1,4 @@
+name: VillagerLimit
+version: 1.0.0
+main: stories.villagerlimit.VillagerLimit
+api-version: 1.16
